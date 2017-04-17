@@ -1,4 +1,7 @@
 # Export-Assets-Android-iOS-Illustrator
 
-- Puedes exportar una imagen en los diferentes tamaños de recursos para Android y iOS
+- Puedes exportar la imagen en los diferentes tamaños de recursos para Android y iOS, colocando el nombre de la imagen.
 - Debes agregarlo en Presets/en_US/Scripts en caso Mac
+
+
+Creditos para https://github.com/austynmahoney/mobile-export-scripts-illustrator
